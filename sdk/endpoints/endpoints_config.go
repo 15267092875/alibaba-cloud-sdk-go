@@ -15,83 +15,83 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-qingdao",
-					"endpoint": "emr.cn-qingdao.aliyuncs.com"
+					"endpoint": "emr.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "emr.aliyuncs.com"
+					"endpoint": "emr.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "emr.aliyuncs.com"
+					"endpoint": "emr.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "emr.eu-west-1.aliyuncs.com"
+					"endpoint": "emr.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "emr.aliyuncs.com"
+					"endpoint": "emr.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "emr.me-east-1.aliyuncs.com"
+					"endpoint": "emr.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "emr.ap-northeast-1.aliyuncs.com"
+					"endpoint": "emr.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "emr.eu-central-1.aliyuncs.com"
+					"endpoint": "emr.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "emr.cn-huhehaote.aliyuncs.com"
+					"endpoint": "emr.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "emr.ap-south-1.aliyuncs.com"
+					"endpoint": "emr.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "emr.us-east-1.aliyuncs.com"
+					"endpoint": "emr.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "emr.aliyuncs.com"
+					"endpoint": "emr.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "emr.cn-hongkong.aliyuncs.com"
+					"endpoint": "emr.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "emr.aliyuncs.com"
+					"endpoint": "emr.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "emr.ap-southeast-2.aliyuncs.com"
+					"endpoint": "emr.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "emr.ap-southeast-3.aliyuncs.com"
+					"endpoint": "emr.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "emr.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "emr.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "emr.ap-southeast-5.aliyuncs.com"
+					"endpoint": "emr.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "emr.aliyuncs.com"
+					"endpoint": "emr.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "emr.aliyuncs.com",
-			"regional_endpoint_pattern": "emr.[RegionId].aliyuncs.com"
+			"global_endpoint": "emr.chenxuewen.me",
+			"regional_endpoint_pattern": "emr.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "petadata",
@@ -100,66 +100,66 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "petadata.me-east-1.aliyuncs.com"
+					"endpoint": "petadata.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "petadata.ap-southeast-2.aliyuncs.com"
+					"endpoint": "petadata.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "petadata.eu-central-1.aliyuncs.com"
+					"endpoint": "petadata.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "petadata.ap-southeast-5.aliyuncs.com"
+					"endpoint": "petadata.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "petadata.cn-huhehaote.aliyuncs.com"
+					"endpoint": "petadata.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "petadata.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "petadata.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "petadata.aliyuncs.com"
+					"endpoint": "petadata.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "petadata.aliyuncs.com",
+			"global_endpoint": "petadata.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -169,35 +169,35 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "dbs-api.cn-hangzhou.aliyuncs.com"
+					"endpoint": "dbs-api.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "dbs-api.cn-hangzhou.aliyuncs.com"
+					"endpoint": "dbs-api.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "dbs-api.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dbs-api.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "dbs-api.ap-northeast-1.aliyuncs.com"
+					"endpoint": "dbs-api.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "dbs-api.cn-hangzhou.aliyuncs.com"
+					"endpoint": "dbs-api.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "dbs-api.cn-hangzhou.aliyuncs.com"
+					"endpoint": "dbs-api.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "dbs-api.cn-hangzhou.aliyuncs.com"
+					"endpoint": "dbs-api.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "dbs-api.cn-hangzhou.aliyuncs.com"
+					"endpoint": "dbs-api.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -210,11 +210,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "alidns.aliyuncs.com"
+					"endpoint": "alidns.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "alidns.aliyuncs.com"
+					"endpoint": "alidns.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -227,63 +227,63 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "elasticsearch.cn-hangzhou.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "elasticsearch.cn-shenzhen.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "elasticsearch.ap-southeast-1.aliyuncs.com"
+					"endpoint": "elasticsearch.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "elasticsearch.cn-beijing.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "elasticsearch.cn-hongkong.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "elasticsearch.ap-southeast-3.aliyuncs.com"
+					"endpoint": "elasticsearch.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "elasticsearch.us-west-1.aliyuncs.com"
+					"endpoint": "elasticsearch.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "elasticsearch.ap-southeast-2.aliyuncs.com"
+					"endpoint": "elasticsearch.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "elasticsearch.ap-southeast-5.aliyuncs.com"
+					"endpoint": "elasticsearch.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "elasticsearch.eu-central-1.aliyuncs.com"
+					"endpoint": "elasticsearch.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "elasticsearch.ap-south-1.aliyuncs.com"
+					"endpoint": "elasticsearch.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "elasticsearch.cn-shanghai.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "elasticsearch.cn-qingdao.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "elasticsearch.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "elasticsearch.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "elasticsearch.ap-northeast-1.aliyuncs.com"
+					"endpoint": "elasticsearch.ap-northeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -296,27 +296,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "baas.cn-hangzhou.aliyuncs.com"
+					"endpoint": "baas.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "baas.ap-northeast-1.aliyuncs.com"
+					"endpoint": "baas.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "baas.ap-southeast-1.aliyuncs.com"
+					"endpoint": "baas.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "baas.aliyuncs.com"
+					"endpoint": "baas.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "baas.aliyuncs.com"
+					"endpoint": "baas.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "baas.aliyuncs.com"
+					"endpoint": "baas.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -327,7 +327,7 @@ const endpointsJson = `{
 			"document_id": "60716",
 			"location_service_code": "cr",
 			"regional_endpoints": null,
-			"global_endpoint": "cr.aliyuncs.com",
+			"global_endpoint": "cr.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -337,7 +337,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cloudwf.aliyuncs.com"
+					"endpoint": "cloudwf.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -350,19 +350,19 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "imagesearch.ap-southeast-2.aliyuncs.com"
+					"endpoint": "imagesearch.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "imagesearch.cn-shanghai.aliyuncs.com"
+					"endpoint": "imagesearch.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "imagesearch.ap-northeast-1.aliyuncs.com"
+					"endpoint": "imagesearch.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "imagesearch.ap-southeast-1.aliyuncs.com"
+					"endpoint": "imagesearch.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -375,7 +375,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "pts.aliyuncs.com"
+					"endpoint": "pts.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -388,47 +388,47 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "ehpc.cn-beijing.aliyuncs.com"
+					"endpoint": "ehpc.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "ehpc.cn-hongkong.aliyuncs.com"
+					"endpoint": "ehpc.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ehpc.ap-southeast-1.aliyuncs.com"
+					"endpoint": "ehpc.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "ehpc.cn-qingdao.aliyuncs.com"
+					"endpoint": "ehpc.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "ehpc.eu-central-1.aliyuncs.com"
+					"endpoint": "ehpc.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "ehpc.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "ehpc.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "ehpc.cn-huhehaote.aliyuncs.com"
+					"endpoint": "ehpc.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ehpc.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ehpc.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ehpc.cn-shanghai.aliyuncs.com"
+					"endpoint": "ehpc.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "ehpc.cn-shenzhen.aliyuncs.com"
+					"endpoint": "ehpc.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "ehpc.ap-southeast-2.aliyuncs.com"
+					"endpoint": "ehpc.ap-southeast-2.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -441,43 +441,43 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-south-1",
-					"endpoint": "polardb.ap-south-1.aliyuncs.com"
+					"endpoint": "polardb.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "polardb.aliyuncs.com"
+					"endpoint": "polardb.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "polardb.cn-huhehaote.aliyuncs.com"
+					"endpoint": "polardb.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "polardb.aliyuncs.com"
+					"endpoint": "polardb.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "polardb.aliyuncs.com"
+					"endpoint": "polardb.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "polardb.aliyuncs.com"
+					"endpoint": "polardb.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "polardb.aliyuncs.com"
+					"endpoint": "polardb.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "polardb.aliyuncs.com"
+					"endpoint": "polardb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "polardb.ap-southeast-5.aliyuncs.com"
+					"endpoint": "polardb.ap-southeast-5.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "polardb.aliyuncs.com"
+			"regional_endpoint_pattern": "polardb.chenxuewen.me"
 		},
 		{
 			"code": "r-kvstore",
@@ -486,82 +486,82 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "r-kvstore.cn-huhehaote.aliyuncs.com"
+					"endpoint": "r-kvstore.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "r-kvstore.ap-southeast-3.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "r-kvstore.ap-southeast-2.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "r-kvstore.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "r-kvstore.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "r-kvstore.eu-central-1.aliyuncs.com"
+					"endpoint": "r-kvstore.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "r-kvstore.cn-hongkong.aliyuncs.com"
+					"endpoint": "r-kvstore.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "r-kvstore.ap-southeast-1.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "r-kvstore.ap-south-1.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "r-kvstore.eu-west-1.aliyuncs.com"
+					"endpoint": "r-kvstore.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "r-kvstore.aliyuncs.com"
+					"endpoint": "r-kvstore.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "r-kvstore.me-east-1.aliyuncs.com"
+					"endpoint": "r-kvstore.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "r-kvstore.ap-northeast-1.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "r-kvstore.ap-southeast-5.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-southeast-5.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "r-kvstore.aliyuncs.com",
+			"global_endpoint": "r-kvstore.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -571,7 +571,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "xianzhi.aliyuncs.com"
+					"endpoint": "xianzhi.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -584,7 +584,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "pcdn.aliyuncs.com"
+					"endpoint": "pcdn.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -597,10 +597,10 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cdn.aliyuncs.com"
+					"endpoint": "cdn.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "cdn.aliyuncs.com",
+			"global_endpoint": "cdn.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -610,10 +610,10 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cloudauth.aliyuncs.com"
+					"endpoint": "cloudauth.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "cloudauth.aliyuncs.com",
+			"global_endpoint": "cloudauth.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -623,71 +623,71 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "nas.ap-southeast-2.aliyuncs.com"
+					"endpoint": "nas.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "nas.ap-south-1.aliyuncs.com"
+					"endpoint": "nas.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "nas.eu-central-1.aliyuncs.com"
+					"endpoint": "nas.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "nas.us-west-1.aliyuncs.com"
+					"endpoint": "nas.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "nas.cn-huhehaote.aliyuncs.com"
+					"endpoint": "nas.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "nas.cn-qingdao.aliyuncs.com"
+					"endpoint": "nas.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "nas.ap-southeast-1.aliyuncs.com"
+					"endpoint": "nas.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "nas.cn-beijing.aliyuncs.com"
+					"endpoint": "nas.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "nas.cn-shanghai.aliyuncs.com"
+					"endpoint": "nas.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "nas.cn-hangzhou.aliyuncs.com"
+					"endpoint": "nas.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "nas.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "nas.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "nas.ap-northeast-1.aliyuncs.com"
+					"endpoint": "nas.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "nas.us-east-1.aliyuncs.com"
+					"endpoint": "nas.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "nas.cn-shenzhen.aliyuncs.com"
+					"endpoint": "nas.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "nas.ap-southeast-5.aliyuncs.com"
+					"endpoint": "nas.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "nas.cn-hongkong.aliyuncs.com"
+					"endpoint": "nas.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "nas.ap-southeast-3.aliyuncs.com"
+					"endpoint": "nas.ap-southeast-3.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -700,10 +700,10 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "alidns.aliyuncs.com"
+					"endpoint": "alidns.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "alidns.aliyuncs.com",
+			"global_endpoint": "alidns.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -713,39 +713,39 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "dts.aliyuncs.com"
+					"endpoint": "dts.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -758,11 +758,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "mhub.cn-shanghai.aliyuncs.com"
+					"endpoint": "mhub.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "mhub.cn-hangzhou.aliyuncs.com"
+					"endpoint": "mhub.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -775,79 +775,79 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-chengdu",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "dysmsapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dysmsapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "dysmsapi.aliyuncs.com"
+					"endpoint": "dysmsapi.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -858,7 +858,7 @@ const endpointsJson = `{
 			"document_id": "58111",
 			"location_service_code": "cloudwf",
 			"regional_endpoints": null,
-			"global_endpoint": "cloudwf.aliyuncs.com",
+			"global_endpoint": "cloudwf.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -868,27 +868,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "cn-beijing.fc.aliyuncs.com"
+					"endpoint": "cn-beijing.fc.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "ap-southeast-2.fc.aliyuncs.com"
+					"endpoint": "ap-southeast-2.fc.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "cn-huhehaote.fc.aliyuncs.com"
+					"endpoint": "cn-huhehaote.fc.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "cn-shanghai.fc.aliyuncs.com"
+					"endpoint": "cn-shanghai.fc.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cn-hangzhou.fc.aliyuncs.com"
+					"endpoint": "cn-hangzhou.fc.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "cn-shenzhen.fc.aliyuncs.com"
+					"endpoint": "cn-shenzhen.fc.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -901,15 +901,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "saf.cn-shanghai.aliyuncs.com"
+					"endpoint": "saf.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "saf.cn-shanghai.aliyuncs.com"
+					"endpoint": "saf.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "saf.cn-shenzhen.aliyuncs.com"
+					"endpoint": "saf.cn-shenzhen.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -922,82 +922,82 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "rds.ap-northeast-1.aliyuncs.com"
+					"endpoint": "rds.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "rds.ap-south-1.aliyuncs.com"
+					"endpoint": "rds.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "rds.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "rds.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "rds.eu-west-1.aliyuncs.com"
+					"endpoint": "rds.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "rds.ap-southeast-3.aliyuncs.com"
+					"endpoint": "rds.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "rds.ap-southeast-2.aliyuncs.com"
+					"endpoint": "rds.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "rds.cn-huhehaote.aliyuncs.com"
+					"endpoint": "rds.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "rds.ap-southeast-5.aliyuncs.com"
+					"endpoint": "rds.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "rds.eu-central-1.aliyuncs.com"
+					"endpoint": "rds.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "rds.me-east-1.aliyuncs.com"
+					"endpoint": "rds.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "rds.aliyuncs.com"
+					"endpoint": "rds.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "rds.aliyuncs.com",
+			"global_endpoint": "rds.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -1007,82 +1007,82 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-south-1",
-					"endpoint": "vpc.ap-south-1.aliyuncs.com"
+					"endpoint": "vpc.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "vpc.ap-southeast-2.aliyuncs.com"
+					"endpoint": "vpc.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "vpc.ap-northeast-1.aliyuncs.com"
+					"endpoint": "vpc.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "vpc.cn-huhehaote.aliyuncs.com"
+					"endpoint": "vpc.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "vpc.me-east-1.aliyuncs.com"
+					"endpoint": "vpc.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "vpc.ap-southeast-5.aliyuncs.com"
+					"endpoint": "vpc.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "vpc.ap-southeast-3.aliyuncs.com"
+					"endpoint": "vpc.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "vpc.eu-central-1.aliyuncs.com"
+					"endpoint": "vpc.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "vpc.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "vpc.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "vpc.eu-west-1.aliyuncs.com"
+					"endpoint": "vpc.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "vpc.aliyuncs.com"
+					"endpoint": "vpc.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "vpc.aliyuncs.com",
+			"global_endpoint": "vpc.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -1092,70 +1092,70 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "gpdb.ap-southeast-3.aliyuncs.com"
+					"endpoint": "gpdb.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "gpdb.cn-huhehaote.aliyuncs.com"
+					"endpoint": "gpdb.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "gpdb.ap-southeast-5.aliyuncs.com"
+					"endpoint": "gpdb.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "gpdb.ap-southeast-2.aliyuncs.com"
+					"endpoint": "gpdb.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "gpdb.eu-central-1.aliyuncs.com"
+					"endpoint": "gpdb.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "gpdb.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "gpdb.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "gpdb.aliyuncs.com"
+					"endpoint": "gpdb.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "gpdb.ap-northeast-1.aliyuncs.com"
+					"endpoint": "gpdb.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "gpdb.eu-west-1.aliyuncs.com"
+					"endpoint": "gpdb.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "gpdb.ap-south-1.aliyuncs.com"
+					"endpoint": "gpdb.ap-south-1.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "gpdb.aliyuncs.com",
+			"global_endpoint": "gpdb.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -1165,7 +1165,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "market.aliyuncs.com"
+					"endpoint": "market.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1178,11 +1178,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "pvtz.aliyuncs.com"
+					"endpoint": "pvtz.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "pvtz.aliyuncs.com"
+					"endpoint": "pvtz.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1195,35 +1195,35 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "oss-cn-beijing.aliyuncs.com"
+					"endpoint": "oss-cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "oss-cn-hangzhou.aliyuncs.com"
+					"endpoint": "oss-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "oss-cn-shanghai.aliyuncs.com"
+					"endpoint": "oss-cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "oss-cn-hongkong.aliyuncs.com"
+					"endpoint": "oss-cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "oss-cn-shenzhen.aliyuncs.com"
+					"endpoint": "oss-cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "oss-ap-southeast-1.aliyuncs.com"
+					"endpoint": "oss-ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "oss-us-west-1.aliyuncs.com"
+					"endpoint": "oss-us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "oss-cn-qingdao.aliyuncs.com"
+					"endpoint": "oss-cn-qingdao.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1236,31 +1236,31 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-qingdao",
-					"endpoint": "foas.cn-qingdao.aliyuncs.com"
+					"endpoint": "foas.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "foas.cn-beijing.aliyuncs.com"
+					"endpoint": "foas.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "foas.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "foas.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "foas.cn-hangzhou.aliyuncs.com"
+					"endpoint": "foas.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "foas.cn-shanghai.aliyuncs.com"
+					"endpoint": "foas.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "foas.cn-shenzhen.aliyuncs.com"
+					"endpoint": "foas.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "foas.ap-northeast-1.aliyuncs.com"
+					"endpoint": "foas.ap-northeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1273,11 +1273,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ddospro.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddospro.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "ddospro.cn-hongkong.aliyuncs.com"
+					"endpoint": "ddospro.cn-hongkong.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1290,82 +1290,82 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "cbn.aliyuncs.com"
+					"endpoint": "cbn.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "cbn.aliyuncs.com",
+			"global_endpoint": "cbn.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -1375,7 +1375,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "nlp.cn-shanghai.aliyuncs.com"
+					"endpoint": "nlp.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1388,27 +1388,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "hsm.aliyuncs.com"
+					"endpoint": "hsm.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "hsm.aliyuncs.com"
+					"endpoint": "hsm.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "hsm.aliyuncs.com"
+					"endpoint": "hsm.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "hsm.aliyuncs.com"
+					"endpoint": "hsm.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "hsm.aliyuncs.com"
+					"endpoint": "hsm.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "hsm.aliyuncs.com"
+					"endpoint": "hsm.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1421,75 +1421,75 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ons.ap-southeast-1.aliyuncs.com"
+					"endpoint": "ons.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "ons.cn-huhehaote.aliyuncs.com"
+					"endpoint": "ons.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "ons.us-east-1.aliyuncs.com"
+					"endpoint": "ons.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "ons.cn-hongkong.aliyuncs.com"
+					"endpoint": "ons.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "ons.cn-shenzhen.aliyuncs.com"
+					"endpoint": "ons.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "ons.ap-southeast-3.aliyuncs.com"
+					"endpoint": "ons.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ons.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ons.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "ons.cn-qingdao.aliyuncs.com"
+					"endpoint": "ons.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "ons.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "ons.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "ons.me-east-1.aliyuncs.com"
+					"endpoint": "ons.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "ons.ap-northeast-1.aliyuncs.com"
+					"endpoint": "ons.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "ons.ap-southeast-2.aliyuncs.com"
+					"endpoint": "ons.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "ons.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ons.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "ons.eu-central-1.aliyuncs.com"
+					"endpoint": "ons.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "ons.eu-west-1.aliyuncs.com"
+					"endpoint": "ons.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "ons.us-west-1.aliyuncs.com"
+					"endpoint": "ons.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "ons.cn-beijing.aliyuncs.com"
+					"endpoint": "ons.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ons.cn-shanghai.aliyuncs.com"
+					"endpoint": "ons.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1502,79 +1502,79 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hongkong",
-					"endpoint": "kms.cn-hongkong.aliyuncs.com"
+					"endpoint": "kms.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "kms.cn-hangzhou.aliyuncs.com"
+					"endpoint": "kms.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "kms.ap-south-1.aliyuncs.com"
+					"endpoint": "kms.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "kms.cn-qingdao.aliyuncs.com"
+					"endpoint": "kms.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "kms.eu-west-1.aliyuncs.com"
+					"endpoint": "kms.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "kms.us-east-1.aliyuncs.com"
+					"endpoint": "kms.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "kms.cn-beijing.aliyuncs.com"
+					"endpoint": "kms.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "kms.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "kms.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "kms.cn-shanghai.aliyuncs.com"
+					"endpoint": "kms.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "kms.ap-southeast-5.aliyuncs.com"
+					"endpoint": "kms.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "kms.cn-huhehaote.aliyuncs.com"
+					"endpoint": "kms.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "kms.me-east-1.aliyuncs.com"
+					"endpoint": "kms.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "kms.cn-shenzhen.aliyuncs.com"
+					"endpoint": "kms.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "kms.ap-southeast-3.aliyuncs.com"
+					"endpoint": "kms.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "kms.us-west-1.aliyuncs.com"
+					"endpoint": "kms.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "kms.ap-southeast-2.aliyuncs.com"
+					"endpoint": "kms.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "kms.ap-southeast-1.aliyuncs.com"
+					"endpoint": "kms.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "kms.eu-central-1.aliyuncs.com"
+					"endpoint": "kms.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "kms.ap-northeast-1.aliyuncs.com"
+					"endpoint": "kms.ap-northeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1587,7 +1587,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cloudpush.aliyuncs.com"
+					"endpoint": "cloudpush.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1600,7 +1600,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ens.aliyuncs.com"
+					"endpoint": "ens.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1613,83 +1613,83 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "apigateway.ap-southeast-2.aliyuncs.com"
+					"endpoint": "apigateway.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "apigateway.ap-south-1.aliyuncs.com"
+					"endpoint": "apigateway.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "apigateway.us-east-1.aliyuncs.com"
+					"endpoint": "apigateway.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "apigateway.me-east-1.aliyuncs.com"
+					"endpoint": "apigateway.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "apigateway.cn-qingdao.aliyuncs.com"
+					"endpoint": "apigateway.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "apigateway.cn-beijing.aliyuncs.com"
+					"endpoint": "apigateway.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "apigateway.ap-southeast-5.aliyuncs.com"
+					"endpoint": "apigateway.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "apigateway.ap-southeast-3.aliyuncs.com"
+					"endpoint": "apigateway.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "apigateway.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "apigateway.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "apigateway.cn-huhehaote.aliyuncs.com"
+					"endpoint": "apigateway.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "apigateway.ap-southeast-1.aliyuncs.com"
+					"endpoint": "apigateway.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "apigateway.eu-central-1.aliyuncs.com"
+					"endpoint": "apigateway.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "apigateway.cn-hangzhou.aliyuncs.com"
+					"endpoint": "apigateway.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "apigateway.us-west-1.aliyuncs.com"
+					"endpoint": "apigateway.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "apigateway.cn-shenzhen.aliyuncs.com"
+					"endpoint": "apigateway.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "apigateway.eu-west-1.aliyuncs.com"
+					"endpoint": "apigateway.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "apigateway.cn-shanghai.aliyuncs.com"
+					"endpoint": "apigateway.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "apigateway.ap-northeast-1.aliyuncs.com"
+					"endpoint": "apigateway.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "apigateway.cn-hongkong.aliyuncs.com"
+					"endpoint": "apigateway.cn-hongkong.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "apigateway.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "apigateway.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "eci",
@@ -1698,27 +1698,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "eci.aliyuncs.com"
+					"endpoint": "eci.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "eci.aliyuncs.com"
+					"endpoint": "eci.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "eci.aliyuncs.com"
+					"endpoint": "eci.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "eci.aliyuncs.com"
+					"endpoint": "eci.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "eci.aliyuncs.com"
+					"endpoint": "eci.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "eci.aliyuncs.com"
+					"endpoint": "eci.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1731,27 +1731,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "ons.cn-beijing.aliyuncs.com"
+					"endpoint": "ons.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ons.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ons.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ons.cn-shanghai.aliyuncs.com"
+					"endpoint": "ons.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "ons.cn-shenzhen.aliyuncs.com"
+					"endpoint": "ons.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ons.ap-southeast-1.aliyuncs.com"
+					"endpoint": "ons.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "ons.cn-qingdao.aliyuncs.com"
+					"endpoint": "ons.cn-qingdao.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1764,11 +1764,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "linkwan.cn-hangzhou.aliyuncs.com"
+					"endpoint": "linkwan.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "linkwan.cn-shanghai.aliyuncs.com"
+					"endpoint": "linkwan.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1781,7 +1781,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ddosdip.ap-southeast-1.aliyuncs.com"
+					"endpoint": "ddosdip.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1794,43 +1794,43 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "us-west-1",
-					"endpoint": "batchcompute.us-west-1.aliyuncs.com"
+					"endpoint": "batchcompute.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "batchcompute.cn-qingdao.aliyuncs.com"
+					"endpoint": "batchcompute.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "batchcompute.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "batchcompute.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "batchcompute.cn-shenzhen.aliyuncs.com"
+					"endpoint": "batchcompute.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "batchcompute.cn-huhehaote.aliyuncs.com"
+					"endpoint": "batchcompute.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "batchcompute.cn-beijing.aliyuncs.com"
+					"endpoint": "batchcompute.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "batchcompute.cn-hangzhou.aliyuncs.com"
+					"endpoint": "batchcompute.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "batchcompute.cn-shanghai.aliyuncs.com"
+					"endpoint": "batchcompute.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "batchcompute.ap-southeast-1.aliyuncs.com"
+					"endpoint": "batchcompute.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "batchcompute.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "batchcompute.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "aegis",
@@ -1839,14 +1839,14 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "aegis.cn-hangzhou.aliyuncs.com"
+					"endpoint": "aegis.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "aegis.ap-southeast-3.aliyuncs.com"
+					"endpoint": "aegis.ap-southeast-3.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "aegis.cn-hangzhou.aliyuncs.com",
+			"global_endpoint": "aegis.cn-hangzhou.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -1856,35 +1856,35 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hongkong",
-					"endpoint": "arms.cn-hongkong.aliyuncs.com"
+					"endpoint": "arms.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "arms.ap-southeast-1.aliyuncs.com"
+					"endpoint": "arms.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "arms.cn-shenzhen.aliyuncs.com"
+					"endpoint": "arms.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "arms.cn-qingdao.aliyuncs.com"
+					"endpoint": "arms.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "arms.cn-beijing.aliyuncs.com"
+					"endpoint": "arms.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "arms.cn-hangzhou.aliyuncs.com"
+					"endpoint": "arms.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "arms.cn-shanghai.aliyuncs.com"
+					"endpoint": "arms.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "arms.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "arms.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "live",
@@ -1893,34 +1893,34 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "live.aliyuncs.com"
+					"endpoint": "live.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "live.aliyuncs.com",
+			"global_endpoint": "live.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -1930,7 +1930,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "mt.cn-hangzhou.aliyuncs.com"
+					"endpoint": "mt.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -1943,79 +1943,79 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "actiontrail.cn-shanghai.aliyuncs.com"
+					"endpoint": "actiontrail.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "actiontrail.cn-qingdao.aliyuncs.com"
+					"endpoint": "actiontrail.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "actiontrail.us-east-1.aliyuncs.com"
+					"endpoint": "actiontrail.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "actiontrail.ap-southeast-2.aliyuncs.com"
+					"endpoint": "actiontrail.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "actiontrail.ap-southeast-3.aliyuncs.com"
+					"endpoint": "actiontrail.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "actiontrail.ap-southeast-5.aliyuncs.com"
+					"endpoint": "actiontrail.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "actiontrail.ap-south-1.aliyuncs.com"
+					"endpoint": "actiontrail.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "actiontrail.me-east-1.aliyuncs.com"
+					"endpoint": "actiontrail.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "actiontrail.cn-hongkong.aliyuncs.com"
+					"endpoint": "actiontrail.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "actiontrail.cn-shenzhen.aliyuncs.com"
+					"endpoint": "actiontrail.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "actiontrail.cn-hangzhou.aliyuncs.com"
+					"endpoint": "actiontrail.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "actiontrail.eu-west-1.aliyuncs.com"
+					"endpoint": "actiontrail.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "actiontrail.cn-huhehaote.aliyuncs.com"
+					"endpoint": "actiontrail.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "actiontrail.ap-northeast-1.aliyuncs.com"
+					"endpoint": "actiontrail.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "actiontrail.us-west-1.aliyuncs.com"
+					"endpoint": "actiontrail.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "actiontrail.eu-central-1.aliyuncs.com"
+					"endpoint": "actiontrail.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "actiontrail.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "actiontrail.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "actiontrail.cn-beijing.aliyuncs.com"
+					"endpoint": "actiontrail.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "actiontrail.ap-southeast-1.aliyuncs.com"
+					"endpoint": "actiontrail.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2028,31 +2028,31 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "smartag.ap-southeast-3.aliyuncs.com"
+					"endpoint": "smartag.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "smartag.ap-southeast-5.aliyuncs.com"
+					"endpoint": "smartag.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "smartag.eu-central-1.aliyuncs.com"
+					"endpoint": "smartag.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "smartag.cn-shanghai.aliyuncs.com"
+					"endpoint": "smartag.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "smartag.cn-hongkong.aliyuncs.com"
+					"endpoint": "smartag.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "smartag.ap-southeast-1.aliyuncs.com"
+					"endpoint": "smartag.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "smartag.ap-southeast-2.aliyuncs.com"
+					"endpoint": "smartag.ap-southeast-2.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2065,27 +2065,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "vod.cn-shanghai.aliyuncs.com"
+					"endpoint": "vod.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "vod.cn-shanghai.aliyuncs.com"
+					"endpoint": "vod.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "vod.cn-shanghai.aliyuncs.com"
+					"endpoint": "vod.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "vod.cn-shanghai.aliyuncs.com"
+					"endpoint": "vod.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "vod.ap-southeast-1.aliyuncs.com"
+					"endpoint": "vod.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "vod.eu-central-1.aliyuncs.com"
+					"endpoint": "vod.eu-central-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2098,15 +2098,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "domain-intl.aliyuncs.com"
+					"endpoint": "domain-intl.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "domain.aliyuncs.com"
+					"endpoint": "domain.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "domain.aliyuncs.com",
-			"regional_endpoint_pattern": "domain.aliyuncs.com"
+			"global_endpoint": "domain.chenxuewen.me",
+			"regional_endpoint_pattern": "domain.chenxuewen.me"
 		},
 		{
 			"code": "ros",
@@ -2115,10 +2115,10 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ros.aliyuncs.com"
+					"endpoint": "ros.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "ros.aliyuncs.com",
+			"global_endpoint": "ros.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -2128,11 +2128,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "cloudphoto.cn-shanghai.aliyuncs.com"
+					"endpoint": "cloudphoto.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "cloudphoto.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "cloudphoto.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "rtc",
@@ -2141,7 +2141,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "rtc.aliyuncs.com"
+					"endpoint": "rtc.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2171,7 +2171,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ims.aliyuncs.com"
+					"endpoint": "ims.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2184,15 +2184,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "csb.cn-hangzhou.aliyuncs.com"
+					"endpoint": "csb.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "csb.cn-beijing.aliyuncs.com"
+					"endpoint": "csb.cn-beijing.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "csb.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "csb.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "cds",
@@ -2201,10 +2201,10 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "cds.cn-beijing.aliyuncs.com"
+					"endpoint": "cds.cn-beijing.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "cds.cn-beijing.aliyuncs.com",
+			"global_endpoint": "cds.cn-beijing.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -2214,39 +2214,39 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "ddosbgp.cn-hongkong.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "ddosbgp.us-west-1.aliyuncs.com"
+					"endpoint": "ddosbgp.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ddosbgp.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosbgp.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2259,79 +2259,79 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-chengdu",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "dybaseapi.aliyuncs.com"
+					"endpoint": "dybaseapi.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "dybaseapi.ap-southeast-1.aliyuncs.com"
+					"endpoint": "dybaseapi.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2344,82 +2344,82 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "ecs.cn-huhehaote.aliyuncs.com"
+					"endpoint": "ecs.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "ecs.ap-northeast-1.aliyuncs.com"
+					"endpoint": "ecs.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "ecs.ap-southeast-2.aliyuncs.com"
+					"endpoint": "ecs.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "ecs.ap-south-1.aliyuncs.com"
+					"endpoint": "ecs.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "ecs.ap-southeast-3.aliyuncs.com"
+					"endpoint": "ecs.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "ecs.eu-central-1.aliyuncs.com"
+					"endpoint": "ecs.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "ecs.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "ecs.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "ecs.eu-west-1.aliyuncs.com"
+					"endpoint": "ecs.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "ecs.me-east-1.aliyuncs.com"
+					"endpoint": "ecs.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "ecs.ap-southeast-5.aliyuncs.com"
+					"endpoint": "ecs.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ecs-cn-hangzhou.aliyuncs.com"
+					"endpoint": "ecs-cn-hangzhou.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "ecs-cn-hangzhou.aliyuncs.com",
+			"global_endpoint": "ecs-cn-hangzhou.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -2429,22 +2429,22 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ccc.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ccc.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ccc.cn-shanghai.aliyuncs.com"
+					"endpoint": "ccc.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "ccc.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "ccc.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "cs",
 			"document_id": "26043",
 			"location_service_code": "cs",
 			"regional_endpoints": null,
-			"global_endpoint": "cs.aliyuncs.com",
+			"global_endpoint": "cs.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -2454,31 +2454,31 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "drds.cn-hangzhou.aliyuncs.com"
+					"endpoint": "drds.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "drds.cn-shanghai.aliyuncs.com"
+					"endpoint": "drds.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "drds.cn-shenzhen.aliyuncs.com"
+					"endpoint": "drds.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "drds.cn-hangzhou.aliyuncs.com"
+					"endpoint": "drds.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "drds.ap-southeast-1.aliyuncs.com"
+					"endpoint": "drds.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "drds.cn-qingdao.aliyuncs.com"
+					"endpoint": "drds.cn-qingdao.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "drds.cn-beijing.aliyuncs.com"
+					"endpoint": "drds.cn-beijing.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2491,11 +2491,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "dcdn.aliyuncs.com"
+					"endpoint": "dcdn.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "dcdn.aliyuncs.com"
+					"endpoint": "dcdn.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2508,11 +2508,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "linkedmall.aliyuncs.com"
+					"endpoint": "linkedmall.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "linkedmall.aliyuncs.com"
+					"endpoint": "linkedmall.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2525,7 +2525,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "trademark.aliyuncs.com"
+					"endpoint": "trademark.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2538,35 +2538,35 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "openanalytics.cn-shenzhen.aliyuncs.com"
+					"endpoint": "openanalytics.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "openanalytics.eu-west-1.aliyuncs.com"
+					"endpoint": "openanalytics.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "openanalytics.cn-beijing.aliyuncs.com"
+					"endpoint": "openanalytics.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "openanalytics.cn-hangzhou.aliyuncs.com"
+					"endpoint": "openanalytics.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "openanalytics.cn-shanghai.aliyuncs.com"
+					"endpoint": "openanalytics.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "openanalytics.ap-southeast-1.aliyuncs.com"
+					"endpoint": "openanalytics.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "openanalytics.ap-southeast-3.aliyuncs.com"
+					"endpoint": "openanalytics.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "openanalytics.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "openanalytics.cn-zhangjiakou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2577,7 +2577,7 @@ const endpointsJson = `{
 			"document_id": "28756",
 			"location_service_code": "sts",
 			"regional_endpoints": null,
-			"global_endpoint": "sts.aliyuncs.com",
+			"global_endpoint": "sts.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -2587,7 +2587,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "wafopenapi.cn-hangzhou.aliyuncs.com"
+					"endpoint": "wafopenapi.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2600,67 +2600,67 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "me-east-1",
-					"endpoint": "ots.me-east-1.aliyuncs.com"
+					"endpoint": "ots.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "ots.ap-southeast-5.aliyuncs.com"
+					"endpoint": "ots.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "ots.eu-west-1.aliyuncs.com"
+					"endpoint": "ots.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "ots.cn-huhehaote.aliyuncs.com"
+					"endpoint": "ots.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "ots.cn-beijing.aliyuncs.com"
+					"endpoint": "ots.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "ots.ap-southeast-2.aliyuncs.com"
+					"endpoint": "ots.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "ots.us-west-1.aliyuncs.com"
+					"endpoint": "ots.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "ots.us-east-1.aliyuncs.com"
+					"endpoint": "ots.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "ots.ap-south-1.aliyuncs.com"
+					"endpoint": "ots.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "ots.eu-central-1.aliyuncs.com"
+					"endpoint": "ots.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "ots.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "ots.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ots.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ots.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "ots.ap-northeast-1.aliyuncs.com"
+					"endpoint": "ots.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ots.cn-shanghai.aliyuncs.com"
+					"endpoint": "ots.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ots.ap-southeast-1.aliyuncs.com"
+					"endpoint": "ots.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "ots.ap-southeast-3.aliyuncs.com"
+					"endpoint": "ots.ap-southeast-3.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2673,7 +2673,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cloudfw.cn-hangzhou.aliyuncs.com"
+					"endpoint": "cloudfw.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2686,11 +2686,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "dm.ap-southeast-2.aliyuncs.com"
+					"endpoint": "dm.ap-southeast-2.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "dm.aliyuncs.com",
-			"regional_endpoint_pattern": "dm.[RegionId].aliyuncs.com"
+			"global_endpoint": "dm.chenxuewen.me",
+			"regional_endpoint_pattern": "dm.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "oas",
@@ -2699,15 +2699,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "cn-shenzhen.oas.aliyuncs.com"
+					"endpoint": "cn-shenzhen.oas.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "cn-beijing.oas.aliyuncs.com"
+					"endpoint": "cn-beijing.oas.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cn-hangzhou.oas.aliyuncs.com"
+					"endpoint": "cn-hangzhou.oas.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2720,7 +2720,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ddoscoo.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddoscoo.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2731,7 +2731,7 @@ const endpointsJson = `{
 			"document_id": "35037",
 			"location_service_code": "jaq",
 			"regional_endpoints": null,
-			"global_endpoint": "jaq.aliyuncs.com",
+			"global_endpoint": "jaq.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -2741,7 +2741,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "iovcc.cn-shanghai.aliyuncs.com"
+					"endpoint": "iovcc.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2754,7 +2754,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "sas.aliyuncs.com"
+					"endpoint": "sas.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2767,15 +2767,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "chatbot.cn-shanghai.aliyuncs.com"
+					"endpoint": "chatbot.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "chatbot.cn-hangzhou.aliyuncs.com"
+					"endpoint": "chatbot.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "chatbot.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "chatbot.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "airec",
@@ -2784,15 +2784,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "airec.cn-beijing.aliyuncs.com"
+					"endpoint": "airec.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "airec.cn-hangzhou.aliyuncs.com"
+					"endpoint": "airec.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "airec.cn-shanghai.aliyuncs.com"
+					"endpoint": "airec.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2805,27 +2805,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "dms-enterprise.aliyuncs.com"
+					"endpoint": "dms-enterprise.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "dms-enterprise.aliyuncs.com"
+					"endpoint": "dms-enterprise.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "dms-enterprise.aliyuncs.com"
+					"endpoint": "dms-enterprise.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "dms-enterprise.aliyuncs.com"
+					"endpoint": "dms-enterprise.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "dms-enterprise.aliyuncs.com"
+					"endpoint": "dms-enterprise.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "dms-enterprise.aliyuncs.com"
+					"endpoint": "dms-enterprise.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2838,11 +2838,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ivision.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ivision.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "ivision.cn-beijing.aliyuncs.com"
+					"endpoint": "ivision.cn-beijing.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2876,11 +2876,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "gameshield.aliyuncs.com"
+					"endpoint": "gameshield.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "gameshield.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "gameshield.cn-zhangjiakou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2893,7 +2893,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "scdn.aliyuncs.com"
+					"endpoint": "scdn.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2906,7 +2906,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "hitsdb.aliyuncs.com"
+					"endpoint": "hitsdb.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2919,7 +2919,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "hdm-api.aliyuncs.com"
+					"endpoint": "hdm-api.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -2932,106 +2932,106 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "slb.eu-west-1.aliyuncs.com"
+					"endpoint": "slb.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "slb.ap-northeast-1.aliyuncs.com"
+					"endpoint": "slb.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "slb.ap-southeast-2.aliyuncs.com"
+					"endpoint": "slb.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "slb.cn-huhehaote.aliyuncs.com"
+					"endpoint": "slb.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "slb.ap-south-1.aliyuncs.com"
+					"endpoint": "slb.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "slb.eu-central-1.aliyuncs.com"
+					"endpoint": "slb.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "slb.ap-southeast-5.aliyuncs.com"
+					"endpoint": "slb.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "slb.ap-southeast-3.aliyuncs.com"
+					"endpoint": "slb.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "slb.aliyuncs.com"
+					"endpoint": "slb.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "slb.me-east-1.aliyuncs.com"
+					"endpoint": "slb.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "slb.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "slb.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-wulanchabu",
-					"endpoint": "slb.cn-wulanchabu.aliyuncs.com"
+					"endpoint": "slb.cn-wulanchabu.chenxuewen.me"
 				},
 				{
 					"region": "cn-heyuan",
-					"endpoint": "slb.cn-heyuan.aliyuncs.com"
+					"endpoint": "slb.cn-heyuan.chenxuewen.me"
 				},
 				{
 					"region": "cn-guangzhou",
-					"endpoint": "slb.cn-guangzhou.aliyuncs.com"
+					"endpoint": "slb.cn-guangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-chengdu",
-					"endpoint": "slb.cn-chengdu.aliyuncs.com"
+					"endpoint": "slb.cn-chengdu.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-6",
-					"endpoint": "slb.ap-southeast-6.aliyuncs.com"
+					"endpoint": "slb.ap-southeast-6.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "slb.eu-west-1.aliyuncs.com"
+					"endpoint": "slb.eu-west-1.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "slb.aliyuncs.com",
+			"global_endpoint": "slb.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3041,26 +3041,26 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "green.cn-beijing.aliyuncs.com"
+					"endpoint": "green.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "green.ap-southeast-1.aliyuncs.com"
+					"endpoint": "green.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "green.cn-shanghai.aliyuncs.com"
+					"endpoint": "green.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "green.cn-hangzhou.aliyuncs.com"
+					"endpoint": "green.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "green.us-west-1.aliyuncs.com"
+					"endpoint": "green.us-west-1.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "green.aliyuncs.com",
+			"global_endpoint": "green.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3070,7 +3070,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "voicenavigator.cn-shanghai.aliyuncs.com"
+					"endpoint": "voicenavigator.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3083,7 +3083,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ddosright.cn-hangzhou.aliyuncs.com"
+					"endpoint": "ddosright.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3096,31 +3096,31 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "us-east-1",
-					"endpoint": "iot.us-east-1.aliyuncs.com"
+					"endpoint": "iot.us-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "iot.ap-northeast-1.aliyuncs.com"
+					"endpoint": "iot.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "iot.us-west-1.aliyuncs.com"
+					"endpoint": "iot.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "iot.eu-central-1.aliyuncs.com"
+					"endpoint": "iot.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "iot.cn-shanghai.aliyuncs.com"
+					"endpoint": "iot.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "iot.ap-southeast-1.aliyuncs.com"
+					"endpoint": "iot.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
-			"regional_endpoint_pattern": "iot.[RegionId].aliyuncs.com"
+			"regional_endpoint_pattern": "iot.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "bssopenapi",
@@ -3129,79 +3129,79 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "business.aliyuncs.com"
+					"endpoint": "business.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "business.ap-southeast-1.aliyuncs.com"
+					"endpoint": "business.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3214,7 +3214,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "qualitycheck.cn-hangzhou.aliyuncs.com"
+					"endpoint": "qualitycheck.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3227,11 +3227,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "luban.cn-hangzhou.aliyuncs.com"
+					"endpoint": "luban.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "luban.cn-shanghai.aliyuncs.com"
+					"endpoint": "luban.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3244,15 +3244,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-shanghai",
-					"endpoint": "drds.cn-shanghai.aliyuncs.com"
+					"endpoint": "drds.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "drds.cn-hangzhou.aliyuncs.com"
+					"endpoint": "drds.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "drds.ap-southeast-1.aliyuncs.com"
+					"endpoint": "drds.ap-southeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3265,22 +3265,22 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "drds.ap-southeast-1.aliyuncs.com"
+					"endpoint": "drds.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "drds.cn-hangzhou.aliyuncs.com"
+					"endpoint": "drds.cn-hangzhou.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "drds.aliyuncs.com",
-			"regional_endpoint_pattern": "drds.aliyuncs.com"
+			"global_endpoint": "drds.chenxuewen.me",
+			"regional_endpoint_pattern": "drds.chenxuewen.me"
 		},
 		{
 			"code": "httpdns",
 			"document_id": "52679",
 			"location_service_code": "httpdns",
 			"regional_endpoints": null,
-			"global_endpoint": "httpdns-api.aliyuncs.com",
+			"global_endpoint": "httpdns-api.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3290,23 +3290,23 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "cas.aliyuncs.com"
+					"endpoint": "cas.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "cas.ap-southeast-2.aliyuncs.com"
+					"endpoint": "cas.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "cas.ap-northeast-1.aliyuncs.com"
+					"endpoint": "cas.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "cas.eu-central-1.aliyuncs.com"
+					"endpoint": "cas.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "cas.me-east-1.aliyuncs.com"
+					"endpoint": "cas.me-east-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3319,14 +3319,14 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "hpc.aliyuncs.com"
+					"endpoint": "hpc.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "hpc.aliyuncs.com"
+					"endpoint": "hpc.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "hpc.aliyuncs.com",
+			"global_endpoint": "hpc.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3336,82 +3336,82 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-south-1",
-					"endpoint": "antiddos-openapi.ap-south-1.aliyuncs.com"
+					"endpoint": "antiddos-openapi.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "antiddos-openapi.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "antiddos-openapi.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "antiddos-openapi.ap-southeast-3.aliyuncs.com"
+					"endpoint": "antiddos-openapi.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "antiddos-openapi.me-east-1.aliyuncs.com"
+					"endpoint": "antiddos-openapi.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "antiddos-openapi.ap-southeast-5.aliyuncs.com"
+					"endpoint": "antiddos-openapi.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "antiddos-openapi.ap-southeast-2.aliyuncs.com"
+					"endpoint": "antiddos-openapi.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "antiddos-openapi.eu-west-1.aliyuncs.com"
+					"endpoint": "antiddos-openapi.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "antiddos-openapi.cn-huhehaote.aliyuncs.com"
+					"endpoint": "antiddos-openapi.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "antiddos-openapi.eu-central-1.aliyuncs.com"
+					"endpoint": "antiddos-openapi.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "antiddos.aliyuncs.com"
+					"endpoint": "antiddos.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "antiddos-openapi.ap-northeast-1.aliyuncs.com"
+					"endpoint": "antiddos-openapi.ap-northeast-1.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "antiddos.aliyuncs.com",
+			"global_endpoint": "antiddos.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3421,19 +3421,19 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "clouddesktop.cn-beijing.aliyuncs.com"
+					"endpoint": "clouddesktop.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "clouddesktop.cn-shanghai.aliyuncs.com"
+					"endpoint": "clouddesktop.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "clouddesktop.cn-hangzhou.aliyuncs.com"
+					"endpoint": "clouddesktop.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "clouddesktop.cn-shenzhen.aliyuncs.com"
+					"endpoint": "clouddesktop.cn-shenzhen.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3446,7 +3446,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "uis.cn-hangzhou.aliyuncs.com"
+					"endpoint": "uis.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3459,27 +3459,27 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "imm.cn-beijing.aliyuncs.com"
+					"endpoint": "imm.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "imm.ap-southeast-1.aliyuncs.com"
+					"endpoint": "imm.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "imm.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "imm.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "imm.cn-shanghai.aliyuncs.com"
+					"endpoint": "imm.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "imm.cn-hangzhou.aliyuncs.com"
+					"endpoint": "imm.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "imm.cn-shenzhen.aliyuncs.com"
+					"endpoint": "imm.cn-shenzhen.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3492,7 +3492,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ens.aliyuncs.com"
+					"endpoint": "ens.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3503,7 +3503,7 @@ const endpointsJson = `{
 			"document_id": "28672",
 			"location_service_code": "ram",
 			"regional_endpoints": null,
-			"global_endpoint": "ram.aliyuncs.com",
+			"global_endpoint": "ram.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3513,15 +3513,15 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "mgw.cn-hangzhou.aliyuncs.com"
+					"endpoint": "mgw.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "mgw.ap-southeast-1.aliyuncs.com"
+					"endpoint": "mgw.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "mgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "mgw.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3532,7 +3532,7 @@ const endpointsJson = `{
 			"document_id": "55759",
 			"location_service_code": "itaas",
 			"regional_endpoints": null,
-			"global_endpoint": "itaas.aliyuncs.com",
+			"global_endpoint": "itaas.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3542,7 +3542,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "qualitycheck.cn-hangzhou.aliyuncs.com"
+					"endpoint": "qualitycheck.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3555,35 +3555,35 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "alikafka.cn-beijing.aliyuncs.com"
+					"endpoint": "alikafka.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "alikafka.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "alikafka.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "alikafka.cn-huhehaote.aliyuncs.com"
+					"endpoint": "alikafka.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "alikafka.cn-hangzhou.aliyuncs.com"
+					"endpoint": "alikafka.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "alikafka.cn-shanghai.aliyuncs.com"
+					"endpoint": "alikafka.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "alikafka.cn-shenzhen.aliyuncs.com"
+					"endpoint": "alikafka.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "alikafka.cn-hongkong.aliyuncs.com"
+					"endpoint": "alikafka.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "alikafka.cn-qingdao.aliyuncs.com"
+					"endpoint": "alikafka.cn-qingdao.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3596,19 +3596,19 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "faas.cn-hangzhou.aliyuncs.com"
+					"endpoint": "faas.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "faas.cn-shenzhen.aliyuncs.com"
+					"endpoint": "faas.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "faas.cn-shanghai.aliyuncs.com"
+					"endpoint": "faas.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "faas.cn-beijing.aliyuncs.com"
+					"endpoint": "faas.cn-beijing.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3621,11 +3621,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "dfs.cn-beijing.aliyuncs.com"
+					"endpoint": "dfs.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "dfs.cn-shanghai.aliyuncs.com"
+					"endpoint": "dfs.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3638,31 +3638,31 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "metrics.ap-southeast-3.aliyuncs.com"
+					"endpoint": "metrics.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "metrics.ap-southeast-5.aliyuncs.com"
+					"endpoint": "metrics.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "metrics.ap-south-1.aliyuncs.com"
+					"endpoint": "metrics.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "metrics.cn-hangzhou.aliyuncs.com"
+					"endpoint": "metrics.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "metrics.eu-west-1.aliyuncs.com"
+					"endpoint": "metrics.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "metrics.cn-huhehaote.aliyuncs.com"
+					"endpoint": "metrics.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "metrics.ap-northeast-1.aliyuncs.com"
+					"endpoint": "metrics.ap-northeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3673,8 +3673,8 @@ const endpointsJson = `{
 			"document_id": "",
 			"location_service_code": "domain-intl",
 			"regional_endpoints": null,
-			"global_endpoint": "domain-intl.aliyuncs.com",
-			"regional_endpoint_pattern": "domain-intl.aliyuncs.com"
+			"global_endpoint": "domain-intl.chenxuewen.me",
+			"regional_endpoint_pattern": "domain-intl.chenxuewen.me"
 		},
 		{
 			"code": "kvstore",
@@ -3683,7 +3683,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "r-kvstore.ap-northeast-1.aliyuncs.com"
+					"endpoint": "r-kvstore.ap-northeast-1.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3696,7 +3696,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ccs.aliyuncs.com"
+					"endpoint": "ccs.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3709,83 +3709,83 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "ess.cn-huhehaote.aliyuncs.com"
+					"endpoint": "ess.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "ess.ap-southeast-2.aliyuncs.com"
+					"endpoint": "ess.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "ess.eu-west-1.aliyuncs.com"
+					"endpoint": "ess.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "ess.ap-southeast-5.aliyuncs.com"
+					"endpoint": "ess.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "ess.ap-southeast-3.aliyuncs.com"
+					"endpoint": "ess.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "ess.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "ess.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "ess.me-east-1.aliyuncs.com"
+					"endpoint": "ess.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "ess.ap-northeast-1.aliyuncs.com"
+					"endpoint": "ess.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "ess.ap-south-1.aliyuncs.com"
+					"endpoint": "ess.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "ess.eu-central-1.aliyuncs.com"
+					"endpoint": "ess.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "ess.aliyuncs.com"
+					"endpoint": "ess.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "ess.aliyuncs.com",
-			"regional_endpoint_pattern": "ess.[RegionId].aliyuncs.com"
+			"global_endpoint": "ess.chenxuewen.me",
+			"regional_endpoint_pattern": "ess.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "dds",
@@ -3794,87 +3794,87 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "me-east-1",
-					"endpoint": "mongodb.me-east-1.aliyuncs.com"
+					"endpoint": "mongodb.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "mongodb.ap-southeast-3.aliyuncs.com"
+					"endpoint": "mongodb.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-7",
-					"endpoint": "mongodb.ap-southeast-7.aliyuncs.com"
+					"endpoint": "mongodb.ap-southeast-7.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "mongodb.ap-southeast-5.aliyuncs.com"
+					"endpoint": "mongodb.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "mongodb.ap-northeast-1.aliyuncs.com"
+					"endpoint": "mongodb.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "mongodb.eu-central-1.aliyuncs.com"
+					"endpoint": "mongodb.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "mongodb.eu-west-1.aliyuncs.com"
+					"endpoint": "mongodb.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "mongodb.cn-huhehaote.aliyuncs.com"
+					"endpoint": "mongodb.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "mongodb.ap-southeast-2.aliyuncs.com"
+					"endpoint": "mongodb.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "mongodb.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "mongodb.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "mongodb.ap-south-1.aliyuncs.com"
+					"endpoint": "mongodb.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "mongodb.aliyuncs.com"
+					"endpoint": "mongodb.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "mongodb.aliyuncs.com",
-			"regional_endpoint_pattern": "mongodb.[RegionId].aliyuncs.com"
+			"global_endpoint": "mongodb.chenxuewen.me",
+			"regional_endpoint_pattern": "mongodb.[RegionId].chenxuewen.me"
 		},
 		{
 			"code": "mts",
@@ -3883,51 +3883,51 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-beijing",
-					"endpoint": "mts.cn-beijing.aliyuncs.com"
+					"endpoint": "mts.cn-beijing.chenxuewen.me"
 				},
 				{
 					"region": "ap-northeast-1",
-					"endpoint": "mts.ap-northeast-1.aliyuncs.com"
+					"endpoint": "mts.ap-northeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "mts.cn-hongkong.aliyuncs.com"
+					"endpoint": "mts.cn-hongkong.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "mts.cn-shenzhen.aliyuncs.com"
+					"endpoint": "mts.cn-shenzhen.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "mts.cn-zhangjiakou.aliyuncs.com"
+					"endpoint": "mts.cn-zhangjiakou.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "mts.ap-south-1.aliyuncs.com"
+					"endpoint": "mts.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "mts.cn-shanghai.aliyuncs.com"
+					"endpoint": "mts.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "mts.ap-southeast-1.aliyuncs.com"
+					"endpoint": "mts.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "mts.us-west-1.aliyuncs.com"
+					"endpoint": "mts.us-west-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "mts.eu-central-1.aliyuncs.com"
+					"endpoint": "mts.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-west-1",
-					"endpoint": "mts.eu-west-1.aliyuncs.com"
+					"endpoint": "mts.eu-west-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "mts.cn-hangzhou.aliyuncs.com"
+					"endpoint": "mts.cn-hangzhou.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3938,7 +3938,7 @@ const endpointsJson = `{
 			"document_id": "30074",
 			"location_service_code": "push",
 			"regional_endpoints": null,
-			"global_endpoint": "cloudpush.aliyuncs.com",
+			"global_endpoint": "cloudpush.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -3948,43 +3948,43 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "eu-central-1",
-					"endpoint": "sgw.eu-central-1.aliyuncs.com"
+					"endpoint": "sgw.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-zhangjiakou",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "sgw.ap-southeast-1.aliyuncs.com"
+					"endpoint": "sgw.ap-southeast-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-hongkong",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "sgw.ap-southeast-2.aliyuncs.com"
+					"endpoint": "sgw.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "sgw.cn-shanghai.aliyuncs.com"
+					"endpoint": "sgw.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -3997,66 +3997,66 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-huhehaote",
-					"endpoint": "hbase.cn-huhehaote.aliyuncs.com"
+					"endpoint": "hbase.cn-huhehaote.chenxuewen.me"
 				},
 				{
 					"region": "ap-south-1",
-					"endpoint": "hbase.ap-south-1.aliyuncs.com"
+					"endpoint": "hbase.ap-south-1.chenxuewen.me"
 				},
 				{
 					"region": "us-west-1",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "me-east-1",
-					"endpoint": "hbase.me-east-1.aliyuncs.com"
+					"endpoint": "hbase.me-east-1.chenxuewen.me"
 				},
 				{
 					"region": "eu-central-1",
-					"endpoint": "hbase.eu-central-1.aliyuncs.com"
+					"endpoint": "hbase.eu-central-1.chenxuewen.me"
 				},
 				{
 					"region": "cn-qingdao",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "cn-shenzhen",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-2",
-					"endpoint": "hbase.ap-southeast-2.aliyuncs.com"
+					"endpoint": "hbase.ap-southeast-2.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-3",
-					"endpoint": "hbase.ap-southeast-3.aliyuncs.com"
+					"endpoint": "hbase.ap-southeast-3.chenxuewen.me"
 				},
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "us-east-1",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-5",
-					"endpoint": "hbase.ap-southeast-5.aliyuncs.com"
+					"endpoint": "hbase.ap-southeast-5.chenxuewen.me"
 				},
 				{
 					"region": "cn-beijing",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				},
 				{
 					"region": "ap-southeast-1",
-					"endpoint": "hbase.aliyuncs.com"
+					"endpoint": "hbase.chenxuewen.me"
 				}
 			],
-			"global_endpoint": "hbase.aliyuncs.com",
+			"global_endpoint": "hbase.chenxuewen.me",
 			"regional_endpoint_pattern": ""
 		},
 		{
@@ -4066,7 +4066,7 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "yundun-bastionhost.aliyuncs.com"
+					"endpoint": "yundun-bastionhost.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
@@ -4079,11 +4079,11 @@ const endpointsJson = `{
 			"regional_endpoints": [
 				{
 					"region": "cn-hangzhou",
-					"endpoint": "vs.cn-hangzhou.aliyuncs.com"
+					"endpoint": "vs.cn-hangzhou.chenxuewen.me"
 				},
 				{
 					"region": "cn-shanghai",
-					"endpoint": "vs.cn-shanghai.aliyuncs.com"
+					"endpoint": "vs.cn-shanghai.chenxuewen.me"
 				}
 			],
 			"global_endpoint": "",
